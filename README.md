@@ -1,6 +1,6 @@
 # AntSimulator
 
-Very simple ants simulator.
+Very simple ants simulator. My first edit.
 
 # Installation
 
